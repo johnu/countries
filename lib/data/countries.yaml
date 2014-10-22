@@ -24,6 +24,7 @@ AD:
     nl: Andorra
     ru: Андорра
     ar: اندورا
+    eo: Andoro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -75,6 +76,7 @@ AE:
     nl: Verenigde Arabische Emiraten
     ru: Объединенные Арабские Эмираты
     ar: الامارات العربية المتحدة
+    eo: Unuiĝintaj Arabaj Emirlandoj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -115,6 +117,7 @@ AF:
     nl: Afghanistan
     ru: Афганистан
     ar: افغانستان
+    eo: Afganio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -158,6 +161,7 @@ AG:
     ja: アンティグア・バーブーダ
     nl: Antigua en Barbuda
     ru: Антигуа и Барбуда
+    eo: Antigvo-Barbudo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -194,6 +198,7 @@ AI:
     ja: アンギラ
     nl: Anguilla
     ru: Ангилья
+    eo: Angvilo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -234,6 +239,7 @@ AL:
     nl: Albanië
     ru: Албания
     ar: البانيا
+    eo: Albanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -276,6 +282,7 @@ AM:
     nl: Armenië
     ru: Армения
     ar: ارمينيا
+    eo: Armenio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -317,6 +324,7 @@ AN:
     ja: オランダ領アンティル
     nl: Nederlandse Antillen
     ru: Нидерландские Антильские Острова
+    eo: Nederlandaj Antiloj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -356,6 +364,7 @@ AO:
     nl: Angola
     ru: Ангола
     ar: انغولا
+    eo: Angolo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -395,6 +404,7 @@ AQ:
     ja: 南極
     nl: Antarctica
     ru: Антарктида
+    eo: Antarktio
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -441,6 +451,7 @@ AR:
     nl: Argentinië
     ru: Аргентина
     ar: الارجنتين
+    eo: Argentino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -483,6 +494,7 @@ AS:
     ja: アメリカ領サモア
     nl: Amerikaans Samoa
     ru: Американское Самоа
+    eo: Usona Samoo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -531,6 +543,7 @@ AT:
     nl: Oostenrijk
     ru: Австрия
     ar: النمسا
+    eo: Aŭstrio
   national_destination_code_lengths:
   - 1
   - 2
@@ -586,6 +599,7 @@ AU:
     ja: オーストラリア
     nl: Australië
     ru: Австралия
+    eo: Aŭstralio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -622,6 +636,7 @@ AW:
     ja: アルバ
     nl: Aruba
     ru: Аруба
+    eo: Arubo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -660,6 +675,7 @@ AX:
     ja: オーランド諸島
     nl: Ålandeilanden
     ru: Аландские острова
+    eo: Alando
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -698,6 +714,7 @@ AZ:
     ja: アゼルバイジャン
     nl: Azerbeidzjan
     ru: Азербайджан
+    eo: Azerbajĝano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -747,6 +764,7 @@ BA:
     ja: ボスニア・ヘルツェゴビナ
     nl: Bosnië en Herzegovina
     ru: Босния и Герцеговина
+    eo: Bosnio kaj Hercegovino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -786,6 +804,7 @@ BB:
     ja: バルバドス
     nl: Barbados
     ru: Барбадос
+    eo: Barbado
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -823,6 +842,7 @@ BD:
     ja: バングラデシュ
     nl: Bangladesh
     ru: Бангладеш
+    eo: Bangladeŝo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -870,6 +890,7 @@ BE:
     ja: ベルギー
     nl: België
     ru: Бельгия
+    eo: Belgio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -910,6 +931,7 @@ BF:
     ja: ブルキナファソ
     nl: Burkina Faso
     ru: Буркина-Фасо
+    eo: Burkino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -957,6 +979,7 @@ BG:
     ja: ブルガリア
     nl: Bulgarije
     ru: Болгария
+    eo: Burkino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1005,6 +1028,7 @@ BH:
     ja: バーレーン
     nl: Bahrein
     ru: Бахрейн
+    eo: Barejno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1041,6 +1065,7 @@ BI:
     ja: ブルンジ
     nl: Burundi
     ru: Бурунди
+    eo: Burundo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1079,6 +1104,7 @@ BJ:
     ja: ベナン
     nl: Benin
     ru: Бенин
+    eo: Benino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1152,6 +1178,7 @@ BM:
     ja: バミューダ
     nl: Bermuda
     ru: Бермудские острова
+    eo: Bermudo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1188,6 +1215,7 @@ BN:
     ja: ブルネイ・ダルサラーム
     nl: Brunei
     ru: Бруней-Даруссалам
+    eo: Brunejo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1226,6 +1254,7 @@ BO:
     ja: ボリビア多民族国
     nl: Bolivia
     ru: Боливия
+    eo: Bolivio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1261,6 +1290,7 @@ BQ:
     de: Bonaire, Sint Eustatius und Saba
     fr: Pays-Bas caribéens
     ru: Бонэйр, Синт-Эстатиус и Саба
+    eo: Bonaire, Sint Eustatius kaj Saba
     ja: ボネール、シント・ユースタティウスおよびサバ
   national_destination_code_lengths:
   - 2
@@ -1311,6 +1341,7 @@ BR:
     nl: Brazilië
     ru: Бразилия
     ar: البرازيل
+    eo: Brazilo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1348,6 +1379,7 @@ BS:
     ja: バハマ
     nl: Bahama’s
     ru: Багамские острова
+    eo: Bahamoj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1386,6 +1418,7 @@ BT:
     ja: ブータン
     nl: Bhutan
     ru: Бутан
+    eo: Butano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1425,6 +1458,7 @@ BV:
     ja: ブーベ島
     nl: Bouveteiland
     ru: Остров Буве
+    eo: Buvet-Insulo
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -1458,6 +1492,7 @@ BW:
     ja: ボツワナ
     nl: Botswana
     ru: Ботсвана
+    eo: Bocvano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1499,6 +1534,7 @@ BY:
     ja: ベラルーシ
     nl: Wit-Rusland
     ru: Белоруссия
+    eo: Belorusio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1537,6 +1573,7 @@ BZ:
     ja: ベリーズ
     nl: Belize
     ru: Белиз
+    eo: Belizo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1584,6 +1621,7 @@ CA:
     nl: Canada
     ru: Канада
     ar: كندا
+    eo: Kanado
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1623,6 +1661,7 @@ CC:
     ja: ココス（キーリング）諸島
     nl: Cocoseilanden
     ru: Кокосовые острова
+    eo: Kokosinsuloj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1662,6 +1701,7 @@ CD:
     ja: コンゴ民主共和国
     nl: Congo [DRC]
     ru: Конго (. Респ.)
+    eo: Demokratia Respubliko Kongo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1706,6 +1746,7 @@ CF:
     ja: 中央アフリカ共和国
     nl: Centraal-Afrikaanse Republiek
     ru: Центральноафриканская Республика
+    eo: Demokratia Respubliko Kongo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1745,6 +1786,7 @@ CG:
     ja: コンゴ共和国
     nl: Congo [Republiek]
     ru: Конго
+    eo: Respubliko Kongo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1793,6 +1835,7 @@ CH:
     ja: スイス
     nl: Zwitserland
     ru: Швейцария
+    eo: Svislando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1834,6 +1877,7 @@ CI:
     ja: コートジボワール
     nl: Ivoorkust
     ru: Кот-д'Ивуар
+    eo: Ebura Bordo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1874,6 +1918,7 @@ CK:
     ja: クック諸島
     nl: Cookeilanden
     ru: Острова Кука
+    eo: Kukinsuloj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1912,6 +1957,7 @@ CL:
     nl: Chili
     ru: Чили
     ar: تشيلي
+    eo: Ĉilio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1954,6 +2000,7 @@ CM:
     nl: Kameroen
     ru: Камерун
     ar: الكاميرون
+    eo: Kameruno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2000,6 +2047,7 @@ CN:
     nl: China
     ru: Китай
     ar: الصين
+    eo: Ĉinio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2043,6 +2091,7 @@ CO:
     nl: Colombia
     ru: Колумбия
     ar: كولومبيا
+    eo: Kolombio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2080,6 +2129,7 @@ CR:
     ja: コスタリカ
     nl: Costa Rica
     ru: Коста-Рика
+    eo: Kostariko
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2117,6 +2167,7 @@ CU:
     ja: キューバ
     nl: Cuba
     ru: Куба
+    eo: Kubo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2157,6 +2208,7 @@ CV:
     ja: カーボベルデ
     nl: Kaapverdië
     ru: Кабо-Верде
+    eo: Kabo-Verdo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2190,6 +2242,7 @@ CW:
     ja: キュラソー島
     nl: Curaçao
     ru: Кюрасао
+    eo: Kuracao
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2228,6 +2281,7 @@ CX:
     ja: クリスマス島
     nl: Christmaseiland
     ru: Остров Рождества
+    eo: Kristnaskinsulo
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: '0'
@@ -2267,6 +2321,7 @@ CY:
     ja: キプロス
     nl: Cyprus
     ru: Кипр
+    eo: Kipro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2317,6 +2372,7 @@ CZ:
     ja: チェコ
     nl: Tsjechië
     ru: Чешская Республика
+    eo: Ĉeĥio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2367,6 +2423,7 @@ DE:
     nl: Duitsland
     ru: Германия
     ar: المانيا
+    eo: Germanio
   national_destination_code_lengths:
   - 2
   - 3
@@ -2413,6 +2470,7 @@ DJ:
     ja: ジブチ
     nl: Djibouti
     ru: Джибути
+    eo: Ĝibutio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2464,6 +2522,7 @@ DK:
     nl: Denemarken
     ru: Дания
     ar: الدنمارك
+    eo: Danio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2502,6 +2561,7 @@ DM:
     nl: Dominica
     ru: Доминика
     ar: الدومينيكان
+    eo: Dominiko
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -2542,6 +2602,7 @@ DO:
     ja: ドミニカ共和国
     nl: Dominicaanse Republiek
     ru: Доминиканская Республика
+    eo: Domingo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -2583,6 +2644,7 @@ DZ:
     nl: Algerije
     ru: Алжир
     ar: الجزائر
+    eo: Alĝerio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2621,6 +2683,7 @@ EC:
     nl: Ecuador
     ru: Эквадор
     ar: الاكوادور
+    eo: Ekvadoro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2660,6 +2723,7 @@ EE:
     ja: エストニア
     nl: Estland
     ru: Эстония
+    eo: Estonio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2710,6 +2774,7 @@ EG:
     nl: Egypte
     ru: Египет
     ar: مصر
+    eo: Egiptio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2749,6 +2814,7 @@ EH:
     ja: 西サハラ
     nl: Westelijke Sahara
     ru: Западная сахара
+    eo: Okcidenta Saharo
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -2786,6 +2852,7 @@ ER:
     nl: Eritrea
     ru: Эритрея
     ar: اريتيريا
+    eo: Eritreo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2836,6 +2903,7 @@ ES:
     nl: Spanje
     ru: Испания
     ar: اسبانيا
+    eo: Hispanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2878,6 +2946,7 @@ ET:
     nl: Ethiopië
     ru: Эфиопия
     ar: اثيوبيا
+    eo: Etiopio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2925,6 +2994,7 @@ FI:
     nl: Finland
     ru: Финляндия
     ar: فنلندا
+    eo: Finnlando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2966,6 +3036,7 @@ FJ:
     nl: Fiji
     ru: Фиджи
     ar: فيجي
+    eo: Fiĝioj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3009,6 +3080,7 @@ FK:
     ja: フォークランド（マルビナス）諸島
     nl: Falklandeilanden [Islas Malvinas]
     ru: Фолклендские острова
+    eo: Insuloj Falklandoj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3048,6 +3120,7 @@ FM:
     ja: ミクロネシア連邦
     nl: Micronesië
     ru: Микронезия
+    eo: Federacio de Mikronezio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3088,6 +3161,7 @@ FO:
     ja: フェロー諸島
     nl: Faeröer
     ru: Фарерские Острова
+    eo: Ferooj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3136,6 +3210,7 @@ FR:
     nl: Frankrijk
     ru: Франция
     ar: فرنسا
+    eo: Francio
   national_destination_code_lengths:
   - 1
   national_number_lengths:
@@ -3176,6 +3251,7 @@ GA:
     ja: ガボン
     nl: Gabon
     ru: Габон
+    eo: Gabono
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3230,6 +3306,7 @@ GB:
     nl: Verenigd Koninkrijk
     ru: Соединенное Королевство
     ar: المملكة المتحدة
+    eo: Britio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3268,6 +3345,7 @@ GD:
     ja: グレナダ
     nl: Grenada
     ru: Гренада
+    eo: Grenado
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3307,6 +3385,7 @@ GE:
     ja: グルジア
     nl: Georgië
     ru: Грузия
+    eo: Kartvelio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3346,6 +3425,7 @@ GF:
     ja: フランス領ギアナ
     nl: Frans-Guyana
     ru: Французская Гвиана
+    eo: Franca Gviano
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3420,6 +3500,7 @@ GH:
     ja: ガーナ
     nl: Ghana
     ru: Гана
+    eo: Ganao
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3459,6 +3540,7 @@ GI:
     ja: ジブラルタル
     nl: Gibraltar
     ru: Гибралтар
+    eo: Ĝibraltaro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3505,6 +3587,7 @@ GL:
     ja: グリーンランド
     nl: Groenland
     ru: Гренландия
+    eo: Gronlando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3541,6 +3624,7 @@ GM:
     ja: ガンビア
     nl: Gambia
     ru: Гамбия
+    eo: Gambio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3579,6 +3663,7 @@ GN:
     ja: ギニア
     nl: Guinee
     ru: Гвинея
+    eo: Gvineo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3617,6 +3702,7 @@ GP:
     ja: グアドループ
     nl: Guadeloupe
     ru: Гваделупа
+    eo: Gvadelupo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3657,6 +3743,7 @@ GQ:
     ja: 赤道ギニア
     nl: Equatoriaal-Guinea
     ru: Экваториальная Гвинея
+    eo: Ekvatora Gvineo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3705,6 +3792,7 @@ GR:
     ja: ギリシャ
     nl: Griekenland
     ru: Греция
+    eo: Grekio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3744,6 +3832,7 @@ GS:
     ja: サウスジョージア・サウスサンドウィッチ諸島
     nl: Zuid-Georgia en Zuidelijke Sandwicheilanden
     ru: Южная Джорджия и Южные Сандвичевы острова
+    eo: Sud-Georgio kaj Sud-Sandviĉinsuloj
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -3778,6 +3867,7 @@ GT:
     ja: グアテマラ
     nl: Guatemala
     ru: Гватемала
+    eo: Gvatemalo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3814,6 +3904,7 @@ GU:
     ja: グアム
     nl: Guam
     ru: ГУАМ
+    eo: Gvamo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3854,6 +3945,7 @@ GW:
     ja: ギニアビサウ
     nl: Guinee-Bissau
     ru: Гвинея-Бисау
+    eo: Gvineo Bisaŭa
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3890,6 +3982,7 @@ GY:
     ja: ガイアナ
     nl: Guyana
     ru: Гайана
+    eo: Gujano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3935,6 +4028,7 @@ HK:
     ja: 香港
     nl: Hongkong
     ru: Гонконг
+    eo: Honkongo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3974,6 +4068,7 @@ HM:
     ja: ハード島とマクドナルド諸島
     nl: Heard- en McDonaldeilanden
     ru: Острова Херд и Макдональд
+    eo: Herda kaj Makdonaldaj Insuloj
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4008,6 +4103,7 @@ HN:
     ja: ホンジュラス
     nl: Honduras
     ru: Гондурас
+    eo: Honduro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4056,6 +4152,7 @@ HR:
     ja: クロアチア
     nl: Kroatië
     ru: Хорватия
+    eo: Kroatio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4094,6 +4191,7 @@ HT:
     ja: ハイチ
     nl: Haïti
     ru: Гаити
+    eo: Haitio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4144,6 +4242,7 @@ HU:
     ja: ハンガリー
     nl: Hongarije
     ru: Венгрия
+    eo: Hungario
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4194,6 +4293,7 @@ ID:
     ja: インドネシア
     nl: Indonesië
     ru: Индонезия
+    eo: Indonezio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4245,6 +4345,7 @@ IE:
     nl: Ierland
     ru: Ирландия
     ar: ايرلندا
+    eo: Irlando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4292,6 +4393,7 @@ IL:
     nl: Israël
     ru: Израиль
     ar: اسرائيل
+    eo: Israelo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4334,6 +4436,7 @@ IM:
     ja: マン島
     nl: Isle of Man
     ru: Остров Мэн
+    eo: Manksinsulo
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4381,6 +4484,7 @@ IN:
     nl: India
     ru: Индия
     ar: الهند
+    eo: Barato
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4420,6 +4524,7 @@ IO:
     ja: イギリス領インド洋地域
     nl: Britse Gebieden in de Indische Oceaan
     ru: Британская территория в Индийском океане
+    eo: Brita Hindoceana Teritorio
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4456,6 +4561,7 @@ IQ:
     nl: Irak
     ru: Ирак
     ar: العراق
+    eo: Irako
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4494,6 +4600,7 @@ IR:
     ja: イラン・イスラム共和国
     nl: Iran
     ru: Иран
+    eo: Irano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4541,6 +4648,7 @@ IS:
     ja: アイスランド
     nl: IJsland
     ru: Исландия
+    eo: Islando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4591,6 +4699,7 @@ IT:
     nl: Italië
     ru: Италия
     ar: ايطاليا
+    eo: Italio
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -4628,6 +4737,7 @@ JE:
     ja: ジャージー
     nl: Jersey
     ru: Джерси
+    eo: Ĵersejo
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4665,6 +4775,7 @@ JM:
     ja: ジャマイカ
     nl: Jamaica
     ru: Ямайка
+    eo: Jamajko
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -4713,6 +4824,7 @@ JO:
     nl: Jordanië
     ru: Иордания
     ar: الاردن
+    eo: Jordanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4760,6 +4872,7 @@ JP:
     nl: Japan
     ru: Япония
     ar: اليابان
+    eo: Japanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4798,6 +4911,7 @@ KE:
     ja: ケニア
     nl: Kenia
     ru: Кения
+    eo: Kenjo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4839,6 +4953,7 @@ KG:
     ja: キルギス
     nl: Kirgizië
     ru: Кыргызстан
+    eo: Kirgizio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4880,6 +4995,7 @@ KH:
     ja: カンボジア
     nl: Cambodja
     ru: Камбоджа
+    eo: Kamboĝo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4916,6 +5032,7 @@ KI:
     ja: キリバス
     nl: Kiribati
     ru: Кирибати
+    eo: Kamboĝo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4955,6 +5072,7 @@ KM:
     ja: コモロ
     nl: Comoren
     ru: Союз Коморских островов
+    eo: Komoroj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4996,6 +5114,7 @@ KN:
     ja: セントクリストファー・ネイビス
     nl: Saint Kitts en Nevis
     ru: Федерация Сент-Китс и Невис
+    eo: Sankta-Kito kaj Neviso
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5037,6 +5156,7 @@ KP:
     nl: Noord-Korea
     ru: Северная Корея
     ar: كوريا الشمالية
+    eo: Nord-Koreio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5088,6 +5208,7 @@ KR:
     nl: Zuid-Korea
     ru: Южная Корея
     ar: كوريا الجنوبية
+    eo: Sud-Koreio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5137,6 +5258,7 @@ KW:
     nl: Koeweit
     ru: Кувейт
     ar: الكويت
+    eo: Kuvajto
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5177,6 +5299,7 @@ KY:
     ja: ケイマン諸島
     nl: Caymaneilanden
     ru: Каймановы о-ва
+    eo: Kajmaninsuloj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5217,6 +5340,7 @@ KZ:
     nl: Kazachstan
     ru: Казахстан
     ar: كازاخستان
+    eo: Kazaĥio
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5255,6 +5379,7 @@ LA:
     nl: Laos
     ru: Лаос
     ar: لاوس
+    eo: Laoso
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5302,6 +5427,7 @@ LB:
     nl: Libanon
     ru: Ливан
     ar: لبنان
+    eo: Libano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5341,6 +5467,7 @@ LC:
     ja: セントルシア
     nl: Saint Lucia
     ru: Сент-Люсия
+    eo: Libano
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5377,6 +5504,7 @@ LI:
     ja: リヒテンシュタイン
     nl: Liechtenstein
     ru: Лихтенштейн
+    eo: Liĥtenŝtejno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5414,6 +5542,7 @@ LK:
     nl: Sri Lanka
     ru: Шри-Ланка
     ar: سيريلانكا
+    eo: Sri-Lanko
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5451,6 +5580,7 @@ LR:
     ja: リベリア
     nl: Liberia
     ru: Либерия
+    eo: Liberio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5490,6 +5620,7 @@ LS:
     ja: レソト
     nl: Lesotho
     ru: Лесото
+    eo: Lesoto
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5531,6 +5662,7 @@ LT:
     ja: リトアニア
     nl: Litouwen
     ru: Литва
+    eo: Litovio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5577,6 +5709,7 @@ LU:
     ja: ルクセンブルク
     nl: Luxemburg
     ru: Люксембург
+    eo: Luksemburgo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5620,6 +5753,7 @@ LV:
     ja: ラトビア
     nl: Letland
     ru: Латвия
+    eo: Latvio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5662,6 +5796,7 @@ LY:
     nl: Libië
     ru: Ливия
     ar: ليبيا
+    eo: Libio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5703,6 +5838,7 @@ MA:
     nl: Marokko
     ru: Марокко
     ar: المغرب
+    eo: Maroko
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5740,6 +5876,7 @@ MC:
     ja: モナコ
     nl: Monaco
     ru: Монако
+    eo: Monako
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5782,6 +5919,7 @@ MD:
     ja: モルドバ共和国
     nl: Moldavië
     ru: Молдова
+    eo: Moldavio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5819,6 +5957,7 @@ ME:
     ja: モンテネグロ
     nl: Montenegro
     ru: Черногория
+    eo: Montenegro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5859,6 +5998,7 @@ MF:
     ja: サン・マルタン（フランス領）
     nl: Saint-Martin
     ru: Сен-Мартен
+    eo: Sankta Marteno
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -5897,6 +6037,7 @@ MG:
     ja: マダガスカル
     nl: Madagaskar
     ru: Мадагаскар
+    eo: Madagaskaro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5938,6 +6079,7 @@ MH:
     ja: マーシャル諸島
     nl: Marshalleilanden
     ru: Маршалловы острова
+    eo: Marŝala Insularo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5985,6 +6127,7 @@ MK:
     ja: マケドニア旧ユーゴスラビア共和国
     nl: Macedonië [FYROM]
     ru: Македония
+    eo: Makedonio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6022,6 +6165,7 @@ ML:
     ja: マリ
     nl: Mali
     ru: Мали
+    eo: Malio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6058,6 +6202,7 @@ MM:
     ja: ミャンマー
     nl: Myanmar
     ru: Мьянма
+    eo: Birmo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6098,6 +6243,7 @@ MN:
     ja: モンゴル
     nl: Mongolië
     ru: Монголия
+    eo: Mongolio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6137,6 +6283,7 @@ MO:
     ja: マカオ
     nl: Macao
     ru: Макао
+    eo: Makao
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6178,6 +6325,7 @@ MP:
     ja: 北マリアナ諸島
     nl: Noordelijke Marianeneilanden
     ru: Северные Марианские Острова
+    eo: Nord-Marianoj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6216,6 +6364,7 @@ MQ:
     ja: マルティニーク
     nl: Martinique
     ru: Мартиника
+    eo: Martiniko
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6255,6 +6404,7 @@ MR:
     ja: モーリタニア
     nl: Mauritanië
     ru: Мавритания
+    eo: Maŭritanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6292,6 +6442,7 @@ MS:
     ja: モントセラト
     nl: Montserrat
     ru: Монтсеррат
+    eo: Moncerato
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6329,6 +6480,7 @@ MT:
     ja: マルタ
     nl: Malta
     ru: Мальта
+    eo: Malto
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6369,6 +6521,7 @@ MU:
     ja: モーリシャス
     nl: Mauritius
     ru: Маврикий
+    eo: Maŭricio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6408,6 +6561,7 @@ MV:
     ja: モルディブ
     nl: Maldiven
     ru: Мальдивы
+    eo: Maldivoj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6444,6 +6598,7 @@ MW:
     ja: マラウイ
     nl: Malawi
     ru: Малави
+    eo: Malavio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6491,6 +6646,7 @@ MX:
     ja: メキシコ
     nl: Mexico
     ru: Мексика
+    eo: Meksiko
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6532,6 +6688,7 @@ MY:
     ja: マレーシア
     nl: Maleisië
     ru: Малайзия
+    eo: Malajzio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6570,6 +6727,7 @@ MZ:
     ja: モザンビーク
     nl: Mozambique
     ru: Мозамбик
+    eo: Mozambiko
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6610,6 +6768,7 @@ NA:
     ja: ナミビア
     nl: Namibië
     ru: Намибия
+    eo: Namibio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6652,6 +6811,7 @@ NC:
     ja: ニューカレドニア
     nl: Nieuw-Caledonië
     ru: Новая Каледония
+    eo: Nov-Kaledonio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6689,6 +6849,7 @@ NE:
     ja: ニジェール
     nl: Niger
     ru: Нигер
+    eo: Niĝero
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6729,6 +6890,7 @@ NF:
     ja: ノーフォーク島
     nl: Norfolkeiland
     ru: Остров Норфолк
+    eo: Norfolkinsulo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6767,6 +6929,7 @@ NG:
     ja: ナイジェリア
     nl: Nigeria
     ru: Нигерия
+    eo: Niĝerio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6804,6 +6967,7 @@ NI:
     ja: ニカラグア
     nl: Nicaragua
     ru: Никарагуа
+    eo: Nikaragvo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6851,6 +7015,7 @@ NL:
     ja: オランダ
     nl: Nederland
     ru: Нидерланды
+    eo: Nederlando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6899,6 +7064,7 @@ NL:
     ja: ノルウェー
     nl: Noorwegen
     ru: Норвегия
+    eo: Norvegio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6937,6 +7103,7 @@ NP:
     ja: ネパール
     nl: Nepal
     ru: Непал
+    eo: Nepalo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6974,6 +7141,7 @@ NR:
     ja: ナウル
     nl: Nauru
     ru: Науру
+    eo: Nauro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7011,6 +7179,7 @@ NU:
     ja: ニウエ
     nl: Niue
     ru: Ниуэ
+    eo: Niuo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7060,6 +7229,7 @@ NZ:
     ja: ニュージーランド
     nl: Nieuw-Zeeland
     ru: Новая Зеландия
+    eo: Nov-Zelando
   national_destination_code_lengths:
   - 1
   national_number_lengths:
@@ -7107,6 +7277,7 @@ OM:
     ja: オマーン
     nl: Oman
     ru: Оман
+    eo: Omano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7145,6 +7316,7 @@ PA:
     ja: パナマ
     nl: Panama
     ru: Панама
+    eo: Panamo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7183,6 +7355,7 @@ PE:
     ja: ペルー
     nl: Peru
     ru: Перу
+    eo: Peruo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7224,6 +7397,7 @@ PF:
     ja: フランス領ポリネシア
     nl: Frans-Polynesië
     ru: Французская Полинезия
+    eo: Franca Polinezio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7264,6 +7438,7 @@ PG:
     ja: パプアニューギニア
     nl: Papoea-Nieuw-Guinea
     ru: Папуа-Новая Гвинея
+    eo: Papuo-Nov-Gvineo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7310,6 +7485,7 @@ PH:
     ja: フィリピン
     nl: Filipijnen
     ru: Филиппины
+    eo: Filipinoj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7350,6 +7526,7 @@ PK:
     ja: パキスタン
     nl: Pakistan
     ru: Пакистан
+    eo: Pakistano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7400,6 +7577,7 @@ PL:
     ja: ポーランド
     nl: Polen
     ru: Польша
+    eo: Pollando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7441,6 +7619,7 @@ PM:
     ja: サンピエール島・ミクロン島
     nl: Saint Pierre en Miquelon
     ru: Сен-Пьер и Микелон
+    eo: Sankta-Piero kaj Mikelono
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7478,6 +7657,7 @@ PN:
     ja: ピトケアン
     nl: Pitcairneilanden
     ru: Острова Питкэрн
+    eo: Pitkarna Insularo
   national_destination_code_lengths: []
   national_number_lengths:
   - 9
@@ -7513,6 +7693,7 @@ PR:
     ja: プエルトリコ
     nl: Puerto Rico
     ru: Пуэрто-Рико
+    eo: Porto-Riko
     ar: بورتو ريكو
   national_destination_code_lengths:
   - 3
@@ -7555,6 +7736,7 @@ PS:
     ja: パレスチナ
     nl: Palestijnse gebieden
     ru: Палестина
+    eo: Palestino
     ar: فلسطين
   national_destination_code_lengths:
   - 2
@@ -7601,6 +7783,7 @@ PT:
     ja: ポルトガル
     nl: Portugal
     ru: Португалия
+    eo: Portugalio
     ar: البرتغال
   national_destination_code_lengths:
   - 2
@@ -7639,6 +7822,7 @@ PW:
     ja: パラオ
     nl: Palau
     ru: Палау
+    eo: Palaŭo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7675,6 +7859,7 @@ PY:
     ja: パラグアイ
     nl: Paraguay
     ru: Парагвай
+    eo: Paragvajo
     ar: الباراغوي
   national_destination_code_lengths:
   - 2
@@ -7722,6 +7907,7 @@ QA:
     nl: Qatar
     ru: Катар
     ar: قطر
+    eo: Kataro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7759,6 +7945,7 @@ RE:
     ja: レユニオン
     nl: Réunion
     ru: Реюньон
+    eo: Reunio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7806,6 +7993,7 @@ RO:
     ja: ルーマニア
     nl: Roemenië
     ru: Румыния
+    eo: Rumanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7846,6 +8034,7 @@ RS:
     ja: セルビア
     nl: Servië
     ru: Сербия
+    eo: Serbio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7895,6 +8084,7 @@ RU:
     ja: ロシア連邦
     nl: Rusland
     ar: روسيا
+    eo: Rusio
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -7933,6 +8123,7 @@ RW:
     nl: Rwanda
     ru: Руанда
     ar: رواندا
+    eo: Ruando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7984,6 +8175,7 @@ SA:
     nl: Saoedi-Arabië
     ru: Саудовская Аравия
     ar: السعودية
+    eo: Sauda Arabio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8025,6 +8217,7 @@ SB:
     ja: ソロモン諸島
     nl: Salomonseilanden
     ru: Соломон Исланд
+    eo: Salomonoj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8062,6 +8255,7 @@ SC:
     ja: セーシェル
     nl: Seychellen
     ru: Сейшельские острова
+    eo: Sejŝeloj
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8103,6 +8297,7 @@ SD:
     nl: Soedan
     ru: Судан
     ar: السودان
+    eo: Sudano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8152,6 +8347,7 @@ SE:
     nl: Zweden
     ru: Швеция
     ar: السويد
+    eo: Svedio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8199,6 +8395,7 @@ SG:
     nl: Singapore
     ru: Сингапур
     ar: سنغافورا
+    eo: Singapuro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8242,6 +8439,7 @@ SH:
     ja: セントヘレナ・アセンションおよびトリスタンダクーニャ
     nl: Sint-Helena
     ru: Остров Святой Елены
+    eo: Sankta Heleno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8290,6 +8488,7 @@ SI:
     nl: Slovenië
     ru: Словения
     ar: سلوفينيا
+    eo: Slovenio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8331,6 +8530,7 @@ SJ:
     ja: スヴァールバル諸島およびヤンマイエン島
     nl: Svalbard en Jan Mayen
     ru: Шпицберген и Ян-Майен
+    eo: Svalbardo kaj Jan-Majen-insulo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8379,6 +8579,7 @@ SK:
     nl: Slowakije
     ru: Словакия
     ar: سلوفاكيا
+    eo: Slovakio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8416,6 +8617,7 @@ SL:
     ja: シエラレオネ
     nl: Sierra Leone
     ru: Сьерра-Леоне
+    eo: Siera-Leono
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8453,6 +8655,7 @@ SM:
     ja: サンマリノ
     nl: San Marino
     ru: Сан-Марино
+    eo: San-Marino
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8493,6 +8696,7 @@ SN:
     ja: セネガル
     nl: Senegal
     ru: Сенегал
+    eo: Senegalo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8531,6 +8735,7 @@ SO:
     nl: Somalië
     ru: Сомали
     ar: الصومال
+    eo: Somalio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8570,6 +8775,7 @@ SR:
     ja: スリナム
     nl: Suriname
     ru: Суринам
+    eo: Surinamo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8608,6 +8814,7 @@ SS:
     nl: Zuid-Soedan
     ru: Южный Судан
     ar: جنوب السودان
+    eo: Suda Sudano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8648,6 +8855,7 @@ ST:
     ja: サントメ・プリンシペ
     nl: Sao Tomé en Principe
     ru: Сан-томе и Принсипи
+    eo: Sao-Tomeo kaj Principeo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8686,6 +8894,7 @@ SV:
     ja: エルサルバドル
     nl: El Salvador
     ru: Эль-Сальвадор
+    eo: Salvadoro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8767,6 +8976,7 @@ SY:
     nl: Syrië
     ru: Сирия
     ar: سوريا
+    eo: Sirio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8806,6 +9016,7 @@ SZ:
     ja: スワジランド
     nl: Swaziland
     ru: Свазиленд
+    eo: Svazilando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8847,6 +9058,7 @@ TC:
     ja: タークス・カイコス諸島
     nl: Turks- en Caicoseilanden
     ru: О - ва Теркс и Кайкос
+    eo: Turkoj kaj Kajkoj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -8887,6 +9099,7 @@ TD:
     nl: Tsjaad
     ru: Чад
     ar: تشاد
+    eo: Ĉado
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8963,6 +9176,7 @@ TG:
     nl: Togo
     ru: Того
     ar: تورو
+    eo: Togo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9002,6 +9216,7 @@ TH:
     nl: Thailand
     ru: Таиланд
     ar: ثايلاند
+    eo: Tajlando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9044,6 +9259,7 @@ TJ:
     nl: Tadzjikistan
     ru: Таджикистан
     ar: طاجسكتان
+    eo: Taĝikio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9083,6 +9299,7 @@ TK:
     ja: トケラウ
     nl: Tokelau
     ru: Токелау
+    eo: Tokelao
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9123,6 +9340,7 @@ TL:
     ja: 東ティモール
     nl: Oost-Timor
     ru: Тимор-Лешти
+    eo: Orienta Timoro
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9162,6 +9380,7 @@ TM:
     nl: Turkmenistan
     ru: Туркменистан
     ar: تركمنستان
+    eo: Turkmenio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9204,6 +9423,7 @@ TN:
     nl: Tunesië
     ru: Тунис
     ar: تونس
+    eo: Tunizio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9242,6 +9462,7 @@ TO:
     nl: Tonga
     ru: Тонга
     ar: تونغا
+    eo: Tongo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9293,6 +9514,7 @@ TR:
     nl: Turkije
     ru: Турция
     ar: تركيا
+    eo: Turkio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9334,6 +9556,7 @@ TT:
     nl: Trinidad en Tobago
     ru: Тринидад и Тобаго
     ar: ترينيداد وتوباغو
+    eo: Trinidado kaj Tobago
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9370,6 +9593,7 @@ TV:
     ja: ツバル
     nl: Tuvalu
     ru: Тувалу
+    eo: Tuvalo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9415,6 +9639,7 @@ TW:
     nl: Taiwan
     ru: Тайвань
     ar: تايوان
+    eo: Tajvano
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9455,6 +9680,7 @@ TZ:
     nl: Tanzania
     ru: Танзания
     ar: تنزانيا
+    eo: Tanzanio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9506,6 +9732,7 @@ UA:
     nl: Oekraïne
     ru: Украина
     ar: اوكرانيا
+    eo: Ukrainio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9544,6 +9771,7 @@ UG:
     ja: ウガンダ
     nl: Oeganda
     ru: Уганда
+    eo: Ugando
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9585,6 +9813,7 @@ UM:
     ja: 合衆国領有小離島
     nl: Kleine afgelegen eilanden van de Verenigde Staten
     ru: Американская территорий
+    eo: Usonaj Malgrandaj Insuloj
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -9631,6 +9860,7 @@ US:
     nl: Verenigde Staten
     ru: Соединенные Штаты Америки
     ar: الولايات المتحدة الامريكية
+    eo: Usono
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9668,6 +9898,7 @@ UY:
     nl: Uruguay
     ru: Уругвай
     ar: الاورغوي
+    eo: Urugvajo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9710,6 +9941,7 @@ UZ:
     nl: Oezbekistan
     ru: Узбекистан
     ar: اوزبكستان
+    eo: Uzbekio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9752,6 +9984,7 @@ VA:
     nl: Vaticaanstad
     ru: Ватикан
     ar: الفاتيكان
+    eo: Vatikanurbo
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9793,6 +10026,7 @@ VC:
     ja: セントビンセントおよびグレナディーン諸島
     nl: Saint Vincent en de Grenadines
     ru: Сент-Винсент и Гренадины
+    eo: Sankta Vincento kaj la Grenadinoj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9829,6 +10063,7 @@ VE:
     ja: ベネズエラ・ボリバル共和国
     nl: Venezuela
     ru: Венесуэла
+    eo: Venezuelo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9869,6 +10104,7 @@ VG:
     ja: イギリス領ヴァージン諸島
     nl: Britse Maagdeneilanden
     ru: Британские Виргинские Острова
+    eo: Britaj Virgulininsuloj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9909,6 +10145,7 @@ VI:
     ja: アメリカ領ヴァージン諸島
     nl: Amerikaanse Maagdeneilanden
     ru: Виргинские Острова, США
+    eo: Usonaj Virgulininsuloj
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9945,6 +10182,7 @@ VN:
     ja: ベトナム
     nl: Vietnam
     ru: Вьетнам
+    eo: Vjetnamio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9984,6 +10222,7 @@ VU:
     ja: バヌアツ
     nl: Vanuatu
     ru: Вануату
+    eo: Vanuatuo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10028,6 +10267,7 @@ WF:
     ja: ウォリス・フツナ
     nl: Wallis en Futuna
     ru: Уоллис и Футуна
+    eo: Valiso kaj Futuno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10064,6 +10304,7 @@ WS:
     ja: サモア
     nl: Samoa
     ru: Самоа
+    eo: Samoo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10111,6 +10352,7 @@ YE:
     ja: イエメン
     nl: Jemen
     ru: Йемен
+    eo: Jemeno
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10149,6 +10391,7 @@ YT:
     ja: マヨット
     nl: Mayotte
     ru: Майотта
+    eo: Majoto
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10201,6 +10444,7 @@ ZA:
     nl: Zuid-Afrika
     ru: Республика Южная Африка
     ar: افريقيا الجنوبية
+    eo: Sudafrikos
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10249,6 +10493,7 @@ ZM:
     nl: Zambia
     ru: Замбия
     ar: زامبيا
+    eo: Zambio
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10288,6 +10533,7 @@ ZW:
     nl: Zimbabwe
     ru: Зимбабве
     ar: زمبابوي
+    eo: Zimbabvo
   national_destination_code_lengths:
   - 2
   national_number_lengths:
